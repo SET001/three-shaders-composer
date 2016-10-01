@@ -23,4 +23,4 @@ gulp.task('shaders', ()=>{
 })
 ```
 
-You suppose to have files named something like `landscape_frag.glsl`. The you will be able to access it from your code in THREE.ShaderChunk aray - `THREE.ShaderChunk.landscape_frag`
+You suppose to have shader files named something like `landscape_frag.glsl`. The you will be able to access it from your code in THREE.ShaderChunk aray - `THREE.ShaderChunk.landscape_frag`
