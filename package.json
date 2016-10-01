@@ -1,0 +1,30 @@
+{
+  "name": "three-shader-composer",
+  "version": "0.0.1",
+  "description": "Gulp task to compose your shaders from raw glsl files into THREE.js shader chunks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SET001/three-shaders-composer.git"
+  },
+  "keywords": [
+    "three",
+    "threejs",
+    "shader",
+    "webgl",
+    "composer"
+  ],
+  "author": "SET001",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SET001/three-shaders-composer/issues"
+  },
+  "homepage": "https://github.com/SET001/three-shaders-composer#readme",
+  "dependencies": {
+    "path": "^0.12.7",
+    "through2": "^2.0.1"
+  }
+}
